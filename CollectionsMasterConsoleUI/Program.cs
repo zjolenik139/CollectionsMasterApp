@@ -82,13 +82,14 @@ namespace CollectionsMasterConsoleUI
             //NumberPrinter();
             Console.WriteLine("-------------------");
 
+
             //TODO: Create a method that will remove all odd numbers from the list then print results
-            Console.WriteLine("Odds Only!!");
+            Console.WriteLine("Evens Only!!");
             
             Console.WriteLine("------------------");
 
             //TODO: Sort the list then print results
-            Console.WriteLine("Sorted Odds!!");
+            Console.WriteLine("Sorted Evens!!");
             
             Console.WriteLine("------------------");
 
